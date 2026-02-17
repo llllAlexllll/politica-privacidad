@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidad - Outfit App</title>
+</head>
+<body>
+  <h1>Política de Privacidad - Outfit App</h1>
+
+  <p><strong>Nombre de la app:</strong> Outfit App</p>
+
+  <h2>1. Información que recopilamos</h2>
+  <p>Recopilamos únicamente la información necesaria para el funcionamiento de la app:</p>
+  <ul>
+    <li>Nombre del usuario</li>
+    <li>Correo electrónico</li>
+    <li>Estado VIP (para habilitar o deshabilitar funciones premium)</li>
+  </ul>
+  <p>Estos datos se usan para gestionar tu perfil, el acceso a funciones VIP y las interacciones dentro de la app.</p>
+
+  <h2>2. Uso de cámara y galería</h2>
+  <ul>
+    <li>La cámara se usa solo para tomar fotos de ropa en el momento, para que puedan ser procesadas en la app.</li>
+    <li>La galería se usa solo para cargar imágenes que ya estén en tu dispositivo y que quieras procesar como ropa en la app.</li>
+    <li>No accedemos a otras fotos ni información del dispositivo sin tu consentimiento explícito.</li>
+  </ul>
+
+  <h2>3. Almacenamiento de imágenes</h2>
+  <ul>
+    <li>Las imágenes subidas se guardan localmente en tu dispositivo y no se comparten públicamente.</li>
+    <li>Para funciones de recorte de fondo u otros procesos, las imágenes se envían temporalmente a un servidor privado. Después del procesamiento, se eliminan de manera automática del servidor.</li>
+    <li>No usamos tus imágenes para publicidad, análisis externo ni compartimos con terceros.</li>
+  </ul>
+
+  <h2>4. Compartir en redes sociales</h2>
+  <p>La app permite compartir imágenes procesadas en redes sociales mediante un botón de la app. Para ello se usa la cuenta de correo <strong>lamao.dev@gmail.com</strong> como contacto técnico, y no se almacena ninguna información adicional sobre tu actividad al compartir.</p>
+
+  <h2>5. Eliminación de cuenta</h2>
+  <ul>
+    <li>Puedes eliminar tu cuenta directamente desde la app en cualquier momento.</li>
+    <li>Al eliminar tu cuenta, toda la información personal almacenada (nombre, correo, estado VIP) se elimina permanentemente.</li>
+  </ul>
+
+  <h2>6. Publicidad y exoneración de responsabilidad</h2>
+  <ul>
+    <li>Los usuarios VIP no deberían ver publicidad dentro de la app.</li>
+    <li>En caso de errores técnicos donde un usuario VIP vea anuncios, no se considerará una obligación de reembolso ni compensación.</li>
+    <li>Los usuarios Free verán anuncios según la configuración y límites establecidos por la app.</li>
+    <li>La app no se hace responsable por fallos externos de servicios de publicidad ni de terceros.</li>
+  </ul>
+
+  <h2>7. Restricciones para menores</h2>
+  <ul>
+    <li>La app no está diseñada para menores de 13 años.</li>
+    <li>No recopilamos conscientemente información de menores de 13 años.</li>
+    <li>Si eres menor de 13 años, no uses la app y pide ayuda a un adulto para gestionar tu información.</li>
+  </ul>
+
+  <h2>8. Uso de servicios de terceros</h2>
+  <ul>
+    <li>La app utiliza Supabase como base de datos segura para almacenar información mínima.</li>
+    <li>Se usan servicios de Google Play para distribución, publicidad y gestión de cuentas.</li>
+    <li>Toda la información se maneja de acuerdo con los términos de estos servicios.</li>
+  </ul>
+
+  <h2>9. Responsabilidad legal</h2>
+  <ul>
+    <li>La app se proporciona "tal cual" y no garantiza que estará libre de errores o interrupciones.</li>
+    <li>No nos responsabilizamos por pérdidas, daños o inconvenientes que puedan ocurrir por el uso de la app.</li>
+    <li>El uso de la app implica aceptación de esta política y exoneración de responsabilidad por errores, fallos de publicidad o mal uso de las funciones.</li>
+  </ul>
+
+  <h2>10. Cambios en la política</h2>
+  <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Se recomienda revisar periódicamente esta página para estar al tanto de cambios. El uso continuado de la app después de cambios implica aceptación de la nueva política.</p>
+
+  <h2>11. Contacto</h2>
+  <p>Para consultas sobre privacidad o eliminación de datos, puedes contactarnos en: <strong>lamao.dev@gmail.com</strong></p>
+
+  <p>Última actualización: 16 de febrero de 2026</p>
+</body>
+</html>
